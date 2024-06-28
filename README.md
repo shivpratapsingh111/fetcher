@@ -12,8 +12,8 @@ git clone https://github.com/shivpratapsingh111/fetcher && cd fetcher && go buil
 
 ## Usage
 
-- fetcher -f urls.txt 
-    - It will save results in `fetched/` in current directory.
+- ```fetcher -f urls.txt``` 
+    - Provide a file containing urls one per line and it will save them locally in `fetched/` directory.
 
 ## Options
 
