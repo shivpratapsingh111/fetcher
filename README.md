@@ -4,6 +4,12 @@
 go install shivpratapsingh111/fetcher@latest
 ```
 
+## Build
+
+```
+git clone https://github.com/shivpratapsingh111/fetcher && cd fetcher && go build 
+```
+
 ## Usage
 
 - fetcher -f urls.txt 
