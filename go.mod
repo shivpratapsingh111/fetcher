@@ -3,10 +3,6 @@ module github.com/shivpratapsingh111/fetcher
 go 1.21
 
 require (
-    fetcher v0.0.1
-)
-
-require (
 	github.com/corpix/uarand v0.2.0
 	github.com/fatih/color v1.17.0
 )
