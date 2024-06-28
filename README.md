@@ -80,3 +80,5 @@ Example: ```fetcher -f urls.txt -t 100```
 Example: ```fetcher -f urls.txt -x 5```
 
 ```
+
+## Open for contribuitons

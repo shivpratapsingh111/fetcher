@@ -46,7 +46,7 @@ func main() {
 	timeout := flag.Int("x", 12, "Timeout in seconds")
 	headers := flag.String("H", "", "Headers to send with request (comma-separated key:value pairs)")
 	randomAgent := flag.Bool("ra", false, "Use random user agent")
-	proxy := flag.String("proxy", "", "Proxy (format: IP:PORT)")
+	proxy := flag.String("proxy", "", "Proxy (format: IP:PORT) ----NOT WORKING CURRENTLY----")
 	silent := flag.Bool("silent", false, "Silent mode, only output URLs that are fetched successfully")
 
 	flag.Parse()
