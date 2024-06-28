@@ -1,7 +1,7 @@
 ## Installation
 
 ```
-go install shivpratapsingh111/fetcher@latest
+go install github.com/shivpratapsingh111/fetcher@latest
 ```
 
 ## Build
