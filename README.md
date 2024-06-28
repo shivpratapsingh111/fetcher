@@ -1,5 +1,5 @@
 # fetcher
-It is made to fetch non-binary content from urls passed to it and save locally.
+It is made to fetch content of text based files from urls passed to it and save locally.
 Purposely to save js files.
 
 ## Installation
@@ -7,6 +7,8 @@ Purposely to save js files.
 ```
 go install github.com/shivpratapsingh111/fetcher@latest
 ```
+
+### OR
 
 ## Build
 
