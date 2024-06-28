@@ -85,4 +85,10 @@ Example: ```fetcher -f urls.txt -x 5```
 
 ---
 
+## TODO
+
+[ ] Fix `-proxy` flag, when used it gives this error `[x] Failed to read response body for [$urls] after [$retires] attempts [tcp: user cancelled]`
+
+---
+
 ## Open for contribuitons
