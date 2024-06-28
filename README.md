@@ -13,7 +13,7 @@ go install github.com/shivpratapsingh111/fetcher@latest
 ## Build
 
 ```
-git clone https://github.com/shivpratapsingh111/fetcher && cd fetcher && go build 
+git clone https://github.com/shivpratapsingh111/fetcher && cd fetcher && go build && cp fetcher /usr/local/bin
 ```
 
 ## Usage
