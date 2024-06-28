@@ -1,3 +1,7 @@
+# fetcher
+It is made to fetch non-binary content from urls passed to it and save locally.
+Purposely to save js files.
+
 ## Installation
 
 ```
