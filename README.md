@@ -54,7 +54,7 @@ Example: ```fetcher -f urls.txt -r 6```
 ---
 
 `-ra`
-> Use random user agent for each request
+> Use a random user-agent for each request
 
 Example: ```fetcher -f urls.txt -ra```
 
