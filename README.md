@@ -1,6 +1,6 @@
 # fetcher
 It is made to fetch content of text based files from urls passed to it and save locally.
-Purposely to save js files.
+Purposely for save js files.
 
 ## Installation
 
