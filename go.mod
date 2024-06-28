@@ -1,6 +1,6 @@
-module fetcher
+module github.com/shivpratapsingh111/fetcher
 
-go 1.22.0
+go 1.21
 
 require (
 	github.com/corpix/uarand v0.2.0
