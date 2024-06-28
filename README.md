@@ -40,7 +40,7 @@ Example: ```fetcher -f urls.txt -H "Cookie:session=abcd,X-Token:my-x-token"```
 ---
 
 `-proxy IP:PORT` **NOT WORKING CURRENTLY**
-> Proxy (format: IP:PORT)
+> Send all request through proxy (format: IP:PORT)
 
 Example: ```fetcher -f urls.txt -proxy 127.0.0.1:8080```
 
